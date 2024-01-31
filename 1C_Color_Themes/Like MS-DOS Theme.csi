@@ -1,0 +1,154 @@
+﻿{
+"DesignerColors": [
+{
+"Name": "Keywords",
+"Color": "#FAA31E"
+},
+{
+"Name": "Numerics",
+"Color": "#F8F8E8"
+},
+{
+"Name": "Strings",
+"Color": "#DADACA"
+},
+{
+"Name": "Dates",
+"Color": "#F8F8E8"
+},
+{
+"Name": "Identifiers",
+"Color": "#F8F8E8"
+},
+{
+"Name": "Operators",
+"Color": "#FFC0CB"
+},
+{
+"Name": "Comments",
+"Color": "#63A3D6"
+},
+{
+"Name": "Preprocessor",
+"Color": "#55CC8A"
+},
+{
+"Name": "Others",
+"Color": "#F8F8E8"
+},
+{
+"Name": "Background",
+"Color": "#191970"
+},
+{
+"Name": "CurrentToken",
+"Color": "#7656B6"
+},
+{
+"Name": "CurrentSelection",
+"Color": "#6C6C6C"
+},
+{
+"Name": "PairLexeme",
+"Color": "#5454B0"
+},
+{
+"Name": "SearchResult",
+"Color": "#A01E64"
+},
+{
+"Name": "AutoAssistBackground",
+"Color": "#525278"
+}
+],
+"EDTColors": [
+{
+"Name": "occurrenceIndicationColor",
+"Color": "#000000"
+},
+{
+"Name": "Comment",
+"Color": "#000000"
+},
+{
+"Name": "lineNumberColor",
+"Color": "#000000"
+},
+{
+"Name": "BSL_Pragmas",
+"Color": "#000000"
+},
+{
+"Name": "Foreground",
+"Color": "#000000"
+},
+{
+"Name": "SelectionForeground",
+"Color": "#000000"
+},
+{
+"Name": "FindScope",
+"Color": "#000000"
+},
+{
+"Name": "Background",
+"Color": "#000000"
+},
+{
+"Name": "Brackets",
+"Color": "#000000"
+},
+{
+"Name": "currentLineColor",
+"Color": "#000000"
+},
+{
+"Name": "Others",
+"Color": "#000000"
+},
+{
+"Name": "Label",
+"Color": "#000000"
+},
+{
+"Name": "SelectionBackground",
+"Color": "#000000"
+},
+{
+"Name": "Builtinfunction",
+"Color": "#000000"
+},
+{
+"Name": "Operators",
+"Color": "#000000"
+},
+{
+"Name": "Preprocessor",
+"Color": "#000000"
+},
+{
+"Name": "Strings",
+"Color": "#000000"
+},
+{
+"Name": "hyperlinkColor",
+"Color": "#000000"
+},
+{
+"Name": "currentIPColor",
+"Color": "#000000"
+},
+{
+"Name": "Numbers",
+"Color": "#000000"
+},
+{
+"Name": "printMarginColor",
+"Color": "#000000"
+},
+{
+"Name": "BSL_Keywords",
+"Color": "#000000"
+}
+]
+}
